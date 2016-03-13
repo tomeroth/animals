@@ -1,0 +1,6 @@
+c:\users\tomek\documents\visual studio 2015\Projects\Animals\Animals\bin\Debug\Animals.exe.config
+c:\users\tomek\documents\visual studio 2015\Projects\Animals\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+c:\users\tomek\documents\visual studio 2015\Projects\Animals\Animals\bin\Debug\Animals.exe
+c:\users\tomek\documents\visual studio 2015\Projects\Animals\Animals\bin\Debug\Animals.pdb
+c:\users\tomek\documents\visual studio 2015\Projects\Animals\Animals\obj\Debug\Animals.exe
+c:\users\tomek\documents\visual studio 2015\Projects\Animals\Animals\obj\Debug\Animals.pdb
